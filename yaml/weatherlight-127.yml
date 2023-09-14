@@ -1,0 +1,111 @@
+---
+object: card
+id: f993f517-999f-4ee6-8ffb-946bffdcf7fe
+oracle_id: 3b92c4dc-2605-42f4-a374-c3be4de3279e
+multiverse_ids:
+- 4515
+mtgo_id: 9405
+mtgo_foil_id: 9406
+tcgplayer_id: 6022
+cardmarket_id: 8637
+name: Familiar Ground
+lang: en
+released_at: '1997-06-09'
+uri: https://api.scryfall.com/cards/f993f517-999f-4ee6-8ffb-946bffdcf7fe
+scryfall_uri: https://scryfall.com/card/wth/127/familiar-ground?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/9/f993f517-999f-4ee6-8ffb-946bffdcf7fe.jpg?1562804319
+  normal: https://cards.scryfall.io/normal/front/f/9/f993f517-999f-4ee6-8ffb-946bffdcf7fe.jpg?1562804319
+  large: https://cards.scryfall.io/large/front/f/9/f993f517-999f-4ee6-8ffb-946bffdcf7fe.jpg?1562804319
+  png: https://cards.scryfall.io/png/front/f/9/f993f517-999f-4ee6-8ffb-946bffdcf7fe.png?1562804319
+  art_crop: https://cards.scryfall.io/art_crop/front/f/9/f993f517-999f-4ee6-8ffb-946bffdcf7fe.jpg?1562804319
+  border_crop: https://cards.scryfall.io/border_crop/front/f/9/f993f517-999f-4ee6-8ffb-946bffdcf7fe.jpg?1562804319
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Enchantment
+oracle_text: Each creature you control can't be blocked by more than one creature.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 700997ac-add2-4ce2-992e-5efa0fdfc0e9
+set: wth
+set_name: Weatherlight
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/700997ac-add2-4ce2-992e-5efa0fdfc0e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awth&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wth?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f993f517-999f-4ee6-8ffb-946bffdcf7fe/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3b92c4dc-2605-42f4-a374-c3be4de3279e&unique=prints
+collector_number: '127'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "I'd rather fight on foreign soil. That way, if I lose I can blame it on the terrain."
+  —Gerrard of the *Weatherlight*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Miracola
+artist_ids:
+- 9b465bde-3656-4495-ace4-af4ce29999ed
+illustration_id: 6c8be634-0ab5-47f8-85ba-530ee0b4aee9
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10765
+prices:
+  usd: '0.45'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.17'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4515
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Familiar+Ground&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Familiar+Ground&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Familiar+Ground
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6022?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Familiar+Ground&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/9405?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

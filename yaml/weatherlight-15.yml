@@ -1,0 +1,112 @@
+---
+object: card
+id: f81defa5-edb4-4f1f-b13c-7cfb34511138
+oracle_id: 3e30e8f2-f437-4620-a3bc-dd9c29ae6570
+multiverse_ids:
+- 4577
+mtgo_id: 9457
+mtgo_foil_id: 9458
+tcgplayer_id: 6037
+cardmarket_id: 8699
+name: Gerrard's Wisdom
+lang: en
+released_at: '1997-06-09'
+uri: https://api.scryfall.com/cards/f81defa5-edb4-4f1f-b13c-7cfb34511138
+scryfall_uri: https://scryfall.com/card/wth/15/gerrards-wisdom?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/8/f81defa5-edb4-4f1f-b13c-7cfb34511138.jpg?1562804288
+  normal: https://cards.scryfall.io/normal/front/f/8/f81defa5-edb4-4f1f-b13c-7cfb34511138.jpg?1562804288
+  large: https://cards.scryfall.io/large/front/f/8/f81defa5-edb4-4f1f-b13c-7cfb34511138.jpg?1562804288
+  png: https://cards.scryfall.io/png/front/f/8/f81defa5-edb4-4f1f-b13c-7cfb34511138.png?1562804288
+  art_crop: https://cards.scryfall.io/art_crop/front/f/8/f81defa5-edb4-4f1f-b13c-7cfb34511138.jpg?1562804288
+  border_crop: https://cards.scryfall.io/border_crop/front/f/8/f81defa5-edb4-4f1f-b13c-7cfb34511138.jpg?1562804288
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: You gain 2 life for each card in your hand.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 700997ac-add2-4ce2-992e-5efa0fdfc0e9
+set: wth
+set_name: Weatherlight
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/700997ac-add2-4ce2-992e-5efa0fdfc0e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awth&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wth?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f81defa5-edb4-4f1f-b13c-7cfb34511138/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3e30e8f2-f437-4620-a3bc-dd9c29ae6570&unique=prints
+collector_number: '15'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Fighting without an army is called a duel, and you'll lose a duel if your enemy comes expecting a war."
+  —Gerrard of the *Weatherlight*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: ae19e82d-b1d8-423d-a899-2d34b4f37e35
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22034
+penny_rank: 9234
+prices:
+  usd: '0.30'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.04'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4577
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gerrard%27s+Wisdom&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gerrard%27s+Wisdom&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gerrard%27s+Wisdom
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6037?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gerrard%27s+Wisdom&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/9457?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

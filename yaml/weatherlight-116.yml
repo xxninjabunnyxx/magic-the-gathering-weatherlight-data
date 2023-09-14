@@ -1,0 +1,115 @@
+---
+object: card
+id: e936e5cb-0a8e-4348-afea-e5f96b19fe23
+oracle_id: 58fa33fd-02a4-4ec9-9226-82594cfec363
+multiverse_ids:
+- 4562
+mtgo_id: 9313
+mtgo_foil_id: 9314
+tcgplayer_id: 6115
+cardmarket_id: 8684
+name: Thundermare
+lang: en
+released_at: '1997-06-09'
+uri: https://api.scryfall.com/cards/e936e5cb-0a8e-4348-afea-e5f96b19fe23
+scryfall_uri: https://scryfall.com/card/wth/116/thundermare?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/9/e936e5cb-0a8e-4348-afea-e5f96b19fe23.jpg?1562804012
+  normal: https://cards.scryfall.io/normal/front/e/9/e936e5cb-0a8e-4348-afea-e5f96b19fe23.jpg?1562804012
+  large: https://cards.scryfall.io/large/front/e/9/e936e5cb-0a8e-4348-afea-e5f96b19fe23.jpg?1562804012
+  png: https://cards.scryfall.io/png/front/e/9/e936e5cb-0a8e-4348-afea-e5f96b19fe23.png?1562804012
+  art_crop: https://cards.scryfall.io/art_crop/front/e/9/e936e5cb-0a8e-4348-afea-e5f96b19fe23.jpg?1562804012
+  border_crop: https://cards.scryfall.io/border_crop/front/e/9/e936e5cb-0a8e-4348-afea-e5f96b19fe23.jpg?1562804012
+mana_cost: "{5}{R}"
+cmc: 6.0
+type_line: Creature — Elemental Horse
+oracle_text: |-
+  Haste (This creature can attack and {T} as soon as it comes under your control.)
+  When Thundermare enters the battlefield, tap all other creatures.
+power: '5'
+toughness: '5'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Haste
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 700997ac-add2-4ce2-992e-5efa0fdfc0e9
+set: wth
+set_name: Weatherlight
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/700997ac-add2-4ce2-992e-5efa0fdfc0e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awth&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wth?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e936e5cb-0a8e-4348-afea-e5f96b19fe23/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A58fa33fd-02a4-4ec9-9226-82594cfec363&unique=prints
+collector_number: '116'
+digital: false
+rarity: rare
+flavor_text: Its hooves strike lightning and the thunder follows quickly after.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Bob Eggleton
+artist_ids:
+- fc0fb0e9-aa30-4143-a43e-d20b4aa9d8ed
+illustration_id: 3d3ff0f8-0bb3-45cd-ac23-8c53f03b2ca9
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14360
+penny_rank: 6905
+prices:
+  usd: '0.83'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.70'
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4562
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Thundermare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Thundermare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Thundermare
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6115?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Thundermare&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/9313?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

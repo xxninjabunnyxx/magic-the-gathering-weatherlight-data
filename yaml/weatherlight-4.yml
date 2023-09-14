@@ -1,0 +1,110 @@
+---
+object: card
+id: 7dddde7d-8565-45a7-a1db-f2dea2a6a3ba
+oracle_id: f86bcdde-8b1f-4efa-a01d-39e09dc826d0
+multiverse_ids:
+- 4566
+mtgo_id: 9253
+mtgo_foil_id: 9254
+tcgplayer_id: 5977
+cardmarket_id: 8688
+name: Angelic Renewal
+lang: en
+released_at: '1997-06-09'
+uri: https://api.scryfall.com/cards/7dddde7d-8565-45a7-a1db-f2dea2a6a3ba
+scryfall_uri: https://scryfall.com/card/wth/4/angelic-renewal?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/d/7dddde7d-8565-45a7-a1db-f2dea2a6a3ba.jpg?1562801742
+  normal: https://cards.scryfall.io/normal/front/7/d/7dddde7d-8565-45a7-a1db-f2dea2a6a3ba.jpg?1562801742
+  large: https://cards.scryfall.io/large/front/7/d/7dddde7d-8565-45a7-a1db-f2dea2a6a3ba.jpg?1562801742
+  png: https://cards.scryfall.io/png/front/7/d/7dddde7d-8565-45a7-a1db-f2dea2a6a3ba.png?1562801742
+  art_crop: https://cards.scryfall.io/art_crop/front/7/d/7dddde7d-8565-45a7-a1db-f2dea2a6a3ba.jpg?1562801742
+  border_crop: https://cards.scryfall.io/border_crop/front/7/d/7dddde7d-8565-45a7-a1db-f2dea2a6a3ba.jpg?1562801742
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: Whenever a creature is put into your graveyard from the battlefield,
+  you may sacrifice Angelic Renewal. If you do, return that card to the battlefield.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 700997ac-add2-4ce2-992e-5efa0fdfc0e9
+set: wth
+set_name: Weatherlight
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/700997ac-add2-4ce2-992e-5efa0fdfc0e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awth&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wth?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7dddde7d-8565-45a7-a1db-f2dea2a6a3ba/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af86bcdde-8b1f-4efa-a01d-39e09dc826d0&unique=prints
+collector_number: '4'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rebecca Guay
+artist_ids:
+- f8f662fa-d597-46a3-afb2-91d6e13243e2
+illustration_id: 99379f6a-e0f9-4313-9132-428b47aaedbc
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4973
+penny_rank: 9251
+prices:
+  usd: '0.45'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4566
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Angelic+Renewal&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Angelic+Renewal&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Angelic+Renewal
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5977?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Angelic+Renewal&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/9253?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

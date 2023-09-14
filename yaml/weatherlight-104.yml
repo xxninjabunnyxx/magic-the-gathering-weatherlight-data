@@ -1,0 +1,113 @@
+---
+object: card
+id: 5a73db23-727f-4d63-97d7-2ca542276722
+oracle_id: be83a518-cfab-46b1-9fe9-7e3d54311c37
+multiverse_ids:
+- 4550
+mtgo_id: 9421
+mtgo_foil_id: 9422
+tcgplayer_id: 6039
+cardmarket_id: 8672
+name: Goblin Grenadiers
+lang: en
+released_at: '1997-06-09'
+uri: https://api.scryfall.com/cards/5a73db23-727f-4d63-97d7-2ca542276722
+scryfall_uri: https://scryfall.com/card/wth/104/goblin-grenadiers?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/a/5a73db23-727f-4d63-97d7-2ca542276722.jpg?1562801006
+  normal: https://cards.scryfall.io/normal/front/5/a/5a73db23-727f-4d63-97d7-2ca542276722.jpg?1562801006
+  large: https://cards.scryfall.io/large/front/5/a/5a73db23-727f-4d63-97d7-2ca542276722.jpg?1562801006
+  png: https://cards.scryfall.io/png/front/5/a/5a73db23-727f-4d63-97d7-2ca542276722.png?1562801006
+  art_crop: https://cards.scryfall.io/art_crop/front/5/a/5a73db23-727f-4d63-97d7-2ca542276722.jpg?1562801006
+  border_crop: https://cards.scryfall.io/border_crop/front/5/a/5a73db23-727f-4d63-97d7-2ca542276722.jpg?1562801006
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Goblin
+oracle_text: Whenever Goblin Grenadiers attacks and isn't blocked, you may sacrifice
+  it. If you do, destroy target creature and target land.
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 700997ac-add2-4ce2-992e-5efa0fdfc0e9
+set: wth
+set_name: Weatherlight
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/700997ac-add2-4ce2-992e-5efa0fdfc0e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awth&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wth?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5a73db23-727f-4d63-97d7-2ca542276722/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abe83a518-cfab-46b1-9fe9-7e3d54311c37&unique=prints
+collector_number: '104'
+digital: false
+rarity: uncommon
+flavor_text: For once, Squee realized, *he* wasn't the dumb one.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: 4e38bcd4-417a-42fc-89d6-ebf5b3f2ad4e
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19891
+penny_rank: 10000
+prices:
+  usd: '0.21'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.49'
+  eur_foil: 
+  tix: '0.06'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4550
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Grenadiers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Grenadiers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Goblin+Grenadiers
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6039?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Grenadiers&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/9421?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
